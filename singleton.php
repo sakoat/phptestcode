@@ -3,6 +3,7 @@
  * Singleton design pattern
  * Example code
  * A Class has one instance, It provides a global access point to it,
+ * Singleton is an creational design pattern
  */
 
  /**
